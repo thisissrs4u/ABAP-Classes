@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition For Flight Service'
+define service ZSRS_SD_Flight {
+  expose ZSRS_I_Connections as Connection;
+}
